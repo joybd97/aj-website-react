@@ -1,0 +1,93 @@
+[
+    {
+        "id": "1",
+        "name":"Importer",
+        "detail":"Engages in bringing in goods into a country from foreign entity for the purpose of trade.",
+        "img":"import.png"
+
+    },
+    {
+        "id": "2",
+        "name":"First Class Contractor",
+        "detail":"We enable you to complete projects on time and budget, maintain road user safety and mitigate business, financial and legal risks.",
+        "img":"contractor.png"
+
+    },
+    {
+        "id": "3",
+        "name":"Consultancy firm",
+        "detail":"AJ Associates is solely focused on helping our clients leverage their technology investments to improve business performance.",
+        "img":"brainstorming.png"
+
+    },
+    {
+        "id": "4",
+        "name":"Advertisement Agency ",
+        "detail":"We offer finest level of LED Billboard Advertising Service. We are an Advertising Agency that was built with a passion to improve the outdoor advertising standards in Bangladesh",
+        "img":"advertisig-agency.png"
+
+    },
+    {
+        "id": "5",
+        "name":"Supplier agency",
+        "detail":"We also supplies Construction materials include plywood and plywood products, wood-fiber board, ceramic building materials, metal building materials, home appliances, decorative fittings, lumber and lumber products, others.",
+        "img":"supplyer.png"
+
+    },
+    {
+        "id": "6",
+        "name":"Software Development",
+        "detail":"AJ Associates is a well experienced software development firm providing offshore software development services..",
+        "img":"coding.png"
+
+    },
+    {
+        "id": "7",
+        "name":"Web Application Development",
+        "detail":"A web application (or web app) is application software that runs on a web server, unlike computer-based software programs that are run locally on the operating system (OS) of the device.",
+        "img":"web.png"
+
+    },
+    {
+        "id": "8",
+        "name":"Database Management",
+        "detail":"AJ Associates is experienced in standard database technologies like Oracle, Microsoft SQL Server, MySQL, and different Big Data and Cloud database systems.",
+        "img":"database-storage.png"
+
+    },
+    {
+        "id": "9",
+        "name":"Software Testing",
+        "detail":"AJ Associates offers several types of software testing services from test case design to test report generation.",
+        "img":"testing.png"
+
+    },
+    {
+        "id": "10",
+        "name":"IT Training",
+        "detail":"AJ Associates  offers high-end professional trainings that’s are designed and delivered by the industry experts who have expertise in this fields.",
+        "img":"training.png"
+
+    },
+    {
+        "id": "11",
+        "name":"Technology Consultancy",
+        "detail":"AJ Associates offer consultancy services that span the entire IT lifecycle, from business process re-engineering to software system design, development and implementation.",
+        "img":"consultation.png"
+
+    },
+    {
+        "id": "12",
+        "name":"Project planning and Management ",
+        "detail":"Our team comprises a software Solution that ensures the seamless integration of all the information following through the company- Financial, Accounting, Human Resource, Sales, customer care and IT. ",
+        "img":"analysis.png"
+
+    },
+    {
+        "id": "13",
+        "name":"Machine learning Based Software application",
+        "detail":"Through the use of statistical methods, algorithms are trained to make classifications or predictions, uncovering key insights within data mining projects.",
+        "img":"machine-learning.png"
+
+    }
+]

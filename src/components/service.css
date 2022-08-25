@@ -1,0 +1,34 @@
+.service-image{
+    height:100px;
+    width: 100px !important;
+    align-items: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top:50px;
+    
+}
+
+.person-service-image{
+    height:150px;
+    width: 150px !important;
+    align-items: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top:50px;
+}
+.service-part:hover{
+    transform: scale(1.05) !important;
+    
+}
+.service-part{
+  transition: transform .9s; /* Animation */
+}
+.service-part2:hover{
+    transform: scale(1.05) !important;
+    
+}
+.service-part2{
+  transition: transform .9s; /* Animation */
+}

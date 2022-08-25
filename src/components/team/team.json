@@ -1,0 +1,92 @@
+[
+    {
+        "id": "1",
+        "name":"Founder",
+        "detail":"Md. Arif-Ul-Islam",
+        "img":"Md. Arif-Ul-Islam.png"
+    },
+    {
+        "id": "2",
+        "name":"CEO",
+        "detail":"Md. Ariful Islam",
+        "img":"Md. Ariful Islam.png"
+    },
+    {
+        "id": "3",
+        "name":"Manager, Technical & Operation’s",
+        "detail":"Md. Ahsan Habib",
+        "img":"Md. Ahsan Habib.png"
+    },
+    {
+        "id": "4",
+        "name":"Software Engineer (Mobile Application & IOS Developer)",
+        "detail":"Mir Hussain Kabir",
+        "img":"Mir Hussain Kabir.png"
+    },
+    {
+        "id": "5",
+        "name":"UI/UX Designer & Web Developer",
+        "detail":"Md. Jahidul Islam Suvro",
+        "img":"Md. Jahidul Islam Suvro.png"
+    },
+    {
+        "id": "6",
+        "name":"Software Engineer - Web Application",
+        "detail":"Tonmoy Mondol",
+        "img":"Tonnoy Mondol.png"
+    },
+    {
+        "id": "7",
+        "name":"Jr. Network Engineer",
+        "detail":"Md. Ashikul Islam",
+        "img":"Md. Ashikul Islam.png"
+    },
+    {
+        "id": "8",
+        "name":"Jr. Network Engineer",
+        "detail":"Abul Hasnain",
+        "img":"Abul Hasnain.png"
+    },
+    {
+        "id": "9",
+        "name":"Assistant Manager - HR & Admin",
+        "detail":"Afroza Bulbul",
+        "img":"Afroza Bulbul.png"
+    },
+    {
+        "id": "10",
+        "name":"Jr. Network Engineer",
+        "detail":"Fatima Tasnia Dristy",
+        "img":"Fatima Tasnia Dristy.png"
+    },
+    {
+        "id": "11",
+        "name":"Jr. Network Engineer",
+        "detail":"Falguni Saha",
+        "img":"Falguni Saha.png"
+    },
+    {
+        "id": "12",
+        "name":"Sr. Executive - Operation",
+        "detail":"Abdullah Hel Baki Khan",
+        "img":"Abdullah Hel Baki Khan.png"
+    },
+    {
+        "id": "13",
+        "name":"Marketing & Sales Executive",
+        "detail":"Md. Saifur Rahman",
+        "img":"Md. Saifur Rahman.png"
+    },
+    {
+        "id": "14",
+        "name":"Manager",
+        "detail":"Md. Razibul Islam Mamun",
+        "img":"Md. Razibul Islam Mamun.png"
+    },
+    {
+        "id": "15",
+        "name":"Accountant",
+        "detail":"Arafat Hosen",
+        "img":"Arafat Hosen.png"
+    }
+]
